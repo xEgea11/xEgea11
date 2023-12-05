@@ -3,12 +3,12 @@
 
 <p align="center"> <img src="https://labs.openai.com/e/m2x1wSFGenHwMThuHk9yafiD/4J8HZ0Z8k0L9a21cIWhVoYQY" </p>
 
+- I am a future pentester and Cybersecurity professional, currently studying a **Master in Cybersecurity and Ethical Hacking**
+- Beucase it is important to enhance the developer skills, I am studying as well in **42 Malaga**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xegea11&label=Profile%20views&color=0e75b6&style=flat" alt="xegea11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xegea11" alt="xegea11" /></a> </p>
-
-- I am a future pentester and Cybersecurity professional, currently studying a **Master in Cybersecurity and Ethical Hacking**
-- Beucase it is important to enhance the developer skills, I am studying as well in **42 Malaga**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
