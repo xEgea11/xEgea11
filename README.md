@@ -12,6 +12,11 @@
 
 ---
 
+<p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/xEgea11.png" alt="TryHackMe"> </p>
+
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
