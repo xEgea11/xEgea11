@@ -12,8 +12,11 @@
 
 ---
 
-<p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/xEgea11.png" alt="TryHackMe"> </p>
+<p align="center"> [![regea-go's 42 stats](https://badge.mediaplus.ma/binary/regea-go?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) </p>
 
+---
+
+<p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/xEgea11.png" alt="TryHackMe"> </p>
 
 ---
 
