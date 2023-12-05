@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center"> <img src="https://github.com/xEgea11/local_files/blob/main/DALL%C2%B7E%202023-12-05%2010.36.47.png" width="300" height="300" </p>
+<p align="center"> <img src="https://static.timesofisrael.com/www/uploads/2018/01/hacker-1.jpg" width="300" height="300" </p>
   
 ---
 
