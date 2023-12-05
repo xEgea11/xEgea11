@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rubén Egea</h1>
-<h3 align="center">A computer science student from Malaga 😁</h3>
+<h3 align="center">A computer science and cybersecurity student from Malaga  😁</h3>
 
 <p align="center"> <img src="https://labs.openai.com/e/m2x1wSFGenHwMThuHk9yafiD/4J8HZ0Z8k0L9a21cIWhVoYQY" </p>
 
@@ -14,6 +14,11 @@
 <p align="left">
 </p>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/egeasec">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 📫 **rubenegea11@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
