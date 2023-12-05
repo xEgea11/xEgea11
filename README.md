@@ -1,25 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rubén Egea</h1>
 <h3 align="center">A computer science and cybersecurity student from Malaga  😁</h3>
 
----
-
 <p align="center"> <img src="https://static.timesofisrael.com/www/uploads/2018/01/hacker-1.jpg" width="600" height="300" </p>
-  
----
 
 - I am a future pentester and Cybersecurity professional, currently studying a **Master in Cybersecurity and Offensive Security**
 - Beucase it is important to enhance the developer skills, I am studying as well in **42 Malaga**
-
----
-
-<h3 align="left"> My progress at 42 </h3>
-
-<span align="center" dir="auto"> [![regea-go's 42 stats](https://badge.mediaplus.ma/binary/regea-go?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) </span>
-
----
-
-<h3 align="left"> My status at TryHackMe </h3>
-<p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/xEgea11.png" alt="TryHackMe"> </p>
 
 ---
 
@@ -33,6 +18,17 @@
   </a>
 </div>
 📫 rubenegea11@gmail.com
+
+---
+
+<h3 align="left"> My progress at 42 </h3>
+
+<span align="center" dir="auto"> [![regea-go's 42 stats](https://badge.mediaplus.ma/binary/regea-go?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) </span>
+
+---
+
+<h3 align="left"> My status at TryHackMe </h3>
+<p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/xEgea11.png" alt="TryHackMe"> </p>
 
 ---
 
