@@ -7,7 +7,7 @@
   
 ---
 
-- I am a future pentester and Cybersecurity professional, currently studying a **Master in Cybersecurity and Ethical Hacking**
+- I am a future pentester and Cybersecurity professional, currently studying a **Master in Cybersecurity and Offensive Security**
 - Beucase it is important to enhance the developer skills, I am studying as well in **42 Malaga**
 
 ---
