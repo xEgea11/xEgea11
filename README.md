@@ -12,7 +12,7 @@
 
 ---
 
-<p align="center"> [![regea-go's 42 stats](https://badge.mediaplus.ma/binary/regea-go?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) </p>
+<span align="center" dir="auto"> [![regea-go's 42 stats](https://badge.mediaplus.ma/binary/regea-go?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) </span>
 
 ---
 
