@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center"> <img src="https://labs.openai.com/e/m2x1wSFGenHwMThuHk9yafiD/4J8HZ0Z8k0L9a21cIWhVoYQY" </p>
+<p align="center"> <img src="https://github.com/xEgea11/local_files/blob/main/DALL%C2%B7E%202023-12-05%2010.36.47.png" </p>
   
 ---
 
