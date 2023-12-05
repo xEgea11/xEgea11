@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center"> <img src="https://static.timesofisrael.com/www/uploads/2018/01/hacker-1.jpg" width="300" height="300" </p>
+<p align="center"> <img src="https://static.timesofisrael.com/www/uploads/2018/01/hacker-1.jpg" width="600" height="300" </p>
   
 ---
 
