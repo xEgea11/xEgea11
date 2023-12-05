@@ -12,12 +12,13 @@
 
 ---
 
-<h3 align="center"> My progress at 42 </h3>
+<h3 align="left"> My progress at 42 </h3>
+
 <span align="center" dir="auto"> [![regea-go's 42 stats](https://badge.mediaplus.ma/binary/regea-go?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) </span>
 
 ---
 
-<h3 align="center"> My status at TryHackMe </h3>
+<h3 align="left"> My status at TryHackMe </h3>
 <p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/xEgea11.png" alt="TryHackMe"> </p>
 
 ---
